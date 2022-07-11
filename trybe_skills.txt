@@ -1,0 +1,5 @@
+O que aprenderei na Trybe:
+
+-Unix
+-Bash
+-Git
